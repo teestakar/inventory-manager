@@ -3,7 +3,7 @@
 A full-stack inventory management web app built with FastAPI, PostgreSQL, and vanilla HTML/CSS/JS.
 
 ## Preview
-![Inventory Manager](Screenshot 2026-03-01 204444.jpg)
+![Inventory Manager](Screenshot.jpg)
 
 ## Features
 - Add, edit, and delete products
